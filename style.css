@@ -1,0 +1,36 @@
+button 
+{
+    border: none;
+    
+    
+}
+button:hover
+{
+    background-color: blue;
+    
+}
+.id
+{
+    height: 200px;
+    padding-bottom: 160px;
+}
+.btn1 a
+{
+    text-decoration: none;
+    
+    color: white;
+    padding: 5px;
+
+}
+.btn1:hover
+{
+    background-color: none;
+}
+.b2 a
+{
+    text-decoration: none;
+    color: white;
+}
+
+
+
